@@ -1,3 +1,8 @@
+#New added
+Provenance-based Intrusion Detection Systems: A Survey (2022) https://dl.acm.org/doi/pdf/10.1145/3539605
+Research Trends, Challenges, and Emerging Topics in Digital Forensics: A Review of Reviews (2022) https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9720948
+
+
 # Audit log Analysis
 Endpoint monitoring solutions (e.g., [Elastic](https://www.elastic.co/), [Splunk](https://docs.splunk.com/Documentation/CIM/4.20.0/User/SplunkAuditLogs)) are widely deployed in today’s enterprise environments to support advanced attack detection and investigation. These monitors continuously record system-level activities as audit logs and provide deep visibility into security incidents.
 
