@@ -1,6 +1,7 @@
 # New added
 Provenance-based Intrusion Detection Systems: A Survey (2022) https://dl.acm.org/doi/pdf/10.1145/3539605
 Research Trends, Challenges, and Emerging Topics in Digital Forensics: A Review of Reviews (2022) https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9720948
+Graph streaming algorithms survey: https://people.cs.umass.edu/~mcgregor/papers/13-graphsurvey.pdf
 
 
 # Audit log Analysis
